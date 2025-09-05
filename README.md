@@ -2,6 +2,11 @@
 
 Demo Chart for Avalanche with subnet-evm
 
+Uses custom docker image
+
+- https://hub.docker.com/r/robjau/avalanche-subnet-evm
+- https://github.com/rob-j-au/avalanche-subnet-evm
+
 
 Args
 ```
