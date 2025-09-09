@@ -49,7 +49,7 @@ Volumes
 # PVC for avalanche data persistence
 persistence:
   enabled: true
-  size: 30Gi
+  size: 1000Gi
   storageClass:
   accessModes:
     - ReadWriteOnce
