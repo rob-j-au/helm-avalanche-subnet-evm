@@ -7,6 +7,11 @@ Uses custom docker image
 - https://hub.docker.com/r/robjau/avalanche-subnet-evm
 - https://github.com/rob-j-au/avalanche-subnet-evm
 
+## Installation
+
+```
+helm install --namespace blockchain avalanche-subnet-evm ./helm-avalanche-subnet-evm
+```
 
 Args
 ```
